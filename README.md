@@ -33,15 +33,12 @@ Tech Stack: Java • Spring Boot • REST API • PostgreSQL • Docker
 
 ## 📊 GitHub Stats
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbaghirov&theme=tokyo-night)
+
 ## 📫 Contact Me
 
 - 📧 Email: mensurbagirov3@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/mansur-baghirzada
 - 💻 GitHub: https://github.com/mbaghirov
-
-## ⭐️ From mbaghirov
-**mbaghirov/mbaghirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
