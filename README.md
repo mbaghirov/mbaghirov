@@ -10,16 +10,21 @@
 **Learning:** Kafka, Redis, Microservices
 
 🚀 Featured Projects
+
 🛒 **Bazarix**  
 Microservice-based marketplace backend inspired by Turbo.az architecture.  
 **Tech Stack:** Java • Spring Boot • PostgreSQL • Docker • Microservices 
+
 🔔 **Testix**  
 Scalable backend system for online testing with OTP auth, test management, and live answer processing.  
-**Tech Stack:** Java • Spring Boot • Kafka • PostgreSQL • Docker  💼 **Jobix**  
+**Tech Stack:** Java • Spring Boot • Kafka • PostgreSQL • Docker 
+
+💼 **Jobix**  
 Job listing and application platform backend system.  
 **Tech Stack:** Java • Spring Boot • REST API • PostgreSQL • Docker  
 
 Codelandia Software Center
+
 ● Developed scalable cross-platform mobile applications using Flutter and Dart  
 ● Implemented state management solutions (BLoC/Cubit) for maintainable architecture  
 ● Integrated RESTful APIs and handled asynchronous data flows  
@@ -27,6 +32,7 @@ Codelandia Software Center
 ● Mentored junior developers and conducted programming workshops  
 
 📫 Contact
+
 🔗 LinkedIn:
 https://www.linkedin.com/in/mansur-baghirzada/
 
