@@ -1,16 +1,17 @@
 ## Hi👋 I'm Mansur Baghirzada
 
-💻 Java Backend Developer | Ex-Flutter Developer
-🚀 Building scalable backend systems & APIs
+##💻 Java Backend Developer | Ex-Flutter Developer
+##🚀 Building scalable backend systems & APIs
 
-🧑‍💻 About Me
+##🧑‍💻 About Me
+
 🔭 Currently working with Java & Spring Boot
 ⚙️ Interested in Microservices Architecture
 📱 Experience in Flutter (cross-platform mobile apps)
 🧠 Learning System Design, Kafka, Redis
 🎯 Goal: Become a strong Backend Engineer
 💻 Tech Stack
-
+##
 **Backend:** Java, Spring Boot, REST APIs, Microservices
 **Mobile:** Flutter, Dart
 **Database:** PostgreSQL, MySQL
@@ -18,7 +19,7 @@
 **Messaging:** Kafka, RabbitMQ
 **Concepts:** OOP, SOLID, Design Patterns
 
-🚀 Featured Projects
+##🚀 Featured Projects
 
 🛒 Bazarix
 Microservice-based marketplace backend inspired by Turbo.az architecture
@@ -32,24 +33,19 @@ Tech Stack: Java • Spring Boot • Kafka • PostgreSQL • Docker
 Job listing and application platform backend system
 Tech Stack: Java • Spring Boot • REST API • PostgreSQL • Docker
 
-📊 GitHub Stats
+##📊 GitHub Stats
 
-📫 Contact Me
+##📫 Contact Me
+
 📧 Email: mensurbagirov3@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/mansur-baghirzada
+
 💻 GitHub: https://github.com/mbaghirov
 
-⭐️ From mbaghirov
+##⭐️ From mbaghirov
 **mbaghirov/mbaghirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
