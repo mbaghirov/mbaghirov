@@ -17,7 +17,7 @@
 - **Database:** PostgreSQL, MySQL
 - **Tools:** Docker, Git, Postman
 - **Messaging:** Kafka, RabbitMQ
-- **Concepts:** OOP, SOLID, Design Patterns
+- **Concepts:** OOP, SOLID, Design Patterns, DRY, KISS
 
 ## 🚀 Featured Projects
 
