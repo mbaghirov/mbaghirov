@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi👋 I'm Mansur Baghirzada
+
+🚀 Java Backend Developer passionate about building scalable backend systems with Java and Spring Boot.
 
 <!--
 **mbaghirov/mbaghirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
