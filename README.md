@@ -1,7 +1,7 @@
 ## Hi👋 I'm Mansur Baghirzada
 
 ## 💻 Java Backend Developer | Ex-Flutter Developer
-🚀 Building scalable backend systems & APIs
+🚀  Java Backend Developer passionate about building scalable backend systems with Java and Spring Boot.
 
 ## 🧑‍💻 About Me
 
