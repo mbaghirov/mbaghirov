@@ -1,51 +1,45 @@
 ## Hi👋 I'm Mansur Baghirzada
 
-🚀 Java Backend Developer passionate about building scalable backend systems with Java and Spring Boot.
+💻 Java Backend Developer | Ex-Flutter Developer
+🚀 Building scalable backend systems & APIs
 
-### 💻 Tech Stack
-**Backend:** Java, Spring Boot, REST APIs  
-**Mobile:** Flutter, Dart  
-**Database:** PostgreSQL, MySQL  
-**Tools:** Docker, Git, Postman  
-**Learning:** Kafka, Redis, Microservices
+🧑‍💻 About Me
+🔭 Currently working with Java & Spring Boot
+⚙️ Interested in Microservices Architecture
+📱 Experience in Flutter (cross-platform mobile apps)
+🧠 Learning System Design, Kafka, Redis
+🎯 Goal: Become a strong Backend Engineer
+💻 Tech Stack
+
+**Backend:** Java, Spring Boot, REST APIs, Microservices
+**Mobile:** Flutter, Dart
+**Database:** PostgreSQL, MySQL
+**Tools:** Docker, Git, Postman
+**Messaging:** Kafka, RabbitMQ
+**Concepts:** OOP, SOLID, Design Patterns
 
 🚀 Featured Projects
 
-🛒 **Bazarix**  
-Microservice-based marketplace backend inspired by Turbo.az architecture.  
-**Tech Stack:** Java • Spring Boot • PostgreSQL • Docker • Microservices 
+🛒 Bazarix
+Microservice-based marketplace backend inspired by Turbo.az architecture
+Tech Stack: Java • Spring Boot • PostgreSQL • Docker • Microservices
 
-🔔 **Testix**  
-Scalable backend system for online testing with OTP auth, test management, and live answer processing.  
-**Tech Stack:** Java • Spring Boot • Kafka • PostgreSQL • Docker 
+🔔 Testix
+Online exam platform backend with OTP auth, test engine, and real-time answer processing
+Tech Stack: Java • Spring Boot • Kafka • PostgreSQL • Docker
 
-💼 **Jobix**  
-Job listing and application platform backend system.  
-**Tech Stack:** Java • Spring Boot • REST API • PostgreSQL • Docker  
+💼 Jobix
+Job listing and application platform backend system
+Tech Stack: Java • Spring Boot • REST API • PostgreSQL • Docker
 
-📊 **Codelandia Software Center**
+📊 GitHub Stats
 
-● Developed scalable cross-platform mobile applications using Flutter and Dart  
-● Implemented state management solutions (BLoC/Cubit) for maintainable architecture  
-● Integrated RESTful APIs and handled asynchronous data flows  
-● Optimized app performance and resolved critical bugs  
-● Mentored junior developers and conducted programming workshops  
+📫 Contact Me
+📧 Email: mensurbagirov3@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/mansur-baghirzada
+💻 GitHub: https://github.com/mbaghirov
 
-📫 Contact
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/mansur-baghirzada/
-
-📧 Email:
-mensurbagirov3@gmail.com
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbaghirov&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbaghirov&layout=compact&theme=tokyonight" />
-</p>
-<!--
+⭐️ From mbaghirov
 **mbaghirov/mbaghirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
