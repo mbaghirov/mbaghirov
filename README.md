@@ -31,10 +31,6 @@ Tech Stack: Java • Spring Boot • Kafka • PostgreSQL • Docker
 Job listing and application platform backend system
 Tech Stack: Java • Spring Boot • REST API • PostgreSQL • Docker
 
-## 📊 GitHub Stats
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbaghirov&theme=tokyo-night)
-
 ## 📫 Contact Me
 
 - 📧 Email: mensurbagirov3@gmail.com
