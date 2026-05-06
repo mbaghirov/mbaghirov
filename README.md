@@ -23,7 +23,7 @@ Scalable backend system for online testing with OTP auth, test management, and l
 Job listing and application platform backend system.  
 **Tech Stack:** Java • Spring Boot • REST API • PostgreSQL • Docker  
 
-Codelandia Software Center
+📊 **Codelandia Software Center**
 
 ● Developed scalable cross-platform mobile applications using Flutter and Dart  
 ● Implemented state management solutions (BLoC/Cubit) for maintainable architecture  
@@ -38,6 +38,13 @@ https://www.linkedin.com/in/mansur-baghirzada/
 
 📧 Email:
 mensurbagirov3@gmail.com
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mbaghirov&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbaghirov&layout=compact&theme=tokyonight" />
+</p>
 <!--
 **mbaghirov/mbaghirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
